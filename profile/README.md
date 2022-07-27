@@ -4,7 +4,7 @@ Crystal is a simple replacement for Geode framework until it releases. That's it
 
 # Getting Started
 
-Download the Crystal CLI from the official repository and run `crystal example`.
+View the example repository.
 
 # Repositories
 
